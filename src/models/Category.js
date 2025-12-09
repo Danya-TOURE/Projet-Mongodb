@@ -20,7 +20,7 @@ const categorySchema = new mongoose.Schema(
     color: {
       type: String,
       trim: true,
-      default: '#808080' // Gris par défaut
+      default: '#eb8f8fff' // Gris par défaut
     }
   },
   {

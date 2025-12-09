@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Préparer la présentation du projet",
+    "description": "Finaliser les slides pour la soutenance",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "title": "Écrire la documentation API",
+    "description": "Compléter le README et les exemples de routes",
+    "status": "in-progress",
+    "priority": "medium"
+  },
+  {
+    "title": "Nettoyer la base de données de test",
+    "description": "Supprimer les données inutiles avant la démo",
+    "status": "done",
+    "priority": "low"
+  }
+]

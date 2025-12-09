@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "69378373e4623b744886f1ce",
+    "title": "Préparer la présentation du projet",
+    "description": "Finaliser les slides pour la soutenance",
+    "status": "pending",
+    "priority": "high",
+    "__v": 0,
+    "createdAt": "2025-12-09T02:03:31.317Z",
+    "updatedAt": "2025-12-09T02:03:31.317Z"
+  },
+  {
+    "_id": "69378373e4623b744886f1cf",
+    "title": "Écrire la documentation API",
+    "description": "Compléter le README et les exemples de routes",
+    "status": "in-progress",
+    "priority": "medium",
+    "__v": 0,
+    "createdAt": "2025-12-09T02:03:31.318Z",
+    "updatedAt": "2025-12-09T02:03:31.318Z"
+  },
+  {
+    "_id": "69378373e4623b744886f1d0",
+    "title": "Nettoyer la base de données de test",
+    "description": "Supprimer les données inutiles avant la démo",
+    "status": "done",
+    "priority": "low",
+    "__v": 0,
+    "createdAt": "2025-12-09T02:03:31.318Z",
+    "updatedAt": "2025-12-09T02:03:31.318Z"
+  }
+]

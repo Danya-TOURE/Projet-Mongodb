@@ -73,7 +73,6 @@ export const getAllCategories = async (req, res, next) => {
     const categories = await Category.find()
       .sort({ name: 1 }) // Tri alphabétique
       .select('name color createdAt updatedAt'); // Sélectionner les champs à retourner
-
     res.status(200).json({
       success: true,
       count: categories.length,
